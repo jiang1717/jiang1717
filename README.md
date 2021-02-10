@@ -15,8 +15,9 @@
 
 
 
-<img align='right' src="https://profile-counter.glitch.me/jiang1717/count.svg" alt="访客数量"/>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiang1717&layout=default"/>
+<img align='right' src="https://profile-counter.glitch.me/jiang1717/count.svg" alt="访客数量"/>
 
 
 ![jiang1717's contribution graph as a Game of Life](https://github4life.herokuapp.com/jiang1717.gif)
