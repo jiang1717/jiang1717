@@ -3,7 +3,7 @@
 </h2>
 
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiang1717&layout=default"/> 
-😄 **数据库** MySQL                     **一学就会**
+😄 **数据库** MySQL，                     **一学就会**
 
 😤 **后端** C，C++，Java，Python        **一用就废**
 
