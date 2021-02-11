@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiang1717&layout=default"/>
 
-😄 **后端**  C，C++，Java，Python            **一学就会**
+😄 **后端**  C，C++，Java，Python            **一学就忘**
 
-😤 **数据库**  MySQL                       **一用就废**
+😤 **数据库**  MySQL                       **出没无常**
 
 😵 **基础**  网络，系统，数据结构               **一片汪洋**
 
