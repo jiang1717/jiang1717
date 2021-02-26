@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiang1717&layout=default"/>
 
-😄 **后端**  C，C++，Java，Python            **一学就忘**
+😫 **后端**  C，C++，Java，Python            **一学就忘**
 
 😤 **算法**  排序，搜索，数据挖掘             **无穷无尽**
 
